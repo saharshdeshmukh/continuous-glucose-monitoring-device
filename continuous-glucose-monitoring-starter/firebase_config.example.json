@@ -1,0 +1,6 @@
+{
+  "project_id": "your-project-id",
+  "apiKey": "YOUR_API_KEY",
+  "authDomain": "your-project.firebaseapp.com",
+  "databaseURL": "https://your-project.firebaseio.com"
+}

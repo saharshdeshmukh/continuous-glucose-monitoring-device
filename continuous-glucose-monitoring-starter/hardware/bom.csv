@@ -1,0 +1,7 @@
+Part,Quantity,Notes
+ESP32-DevKitC,1,NodeMCU-32S or similar
+MAX30100 (or MAX30102),1,SpO2 + HR sensor
+DS18B20,1,Temperature sensor
+16x2 LCD,1,Display
+Jumper wires,1,set,Breadboard & wires
+Resistors,various,As required

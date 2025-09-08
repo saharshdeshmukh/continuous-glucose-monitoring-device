@@ -1,0 +1,4 @@
+numpy
+pandas
+python-dotenv
+# firebase_admin   # only include if you use Firebase admin SDK

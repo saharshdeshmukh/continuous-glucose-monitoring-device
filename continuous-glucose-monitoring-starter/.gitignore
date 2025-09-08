@@ -1,0 +1,44 @@
+# Compiled files
+*.o
+*.obj
+*.elf
+*.hex
+*.bin
+
+# Arduino/PlatformIO build folders
+.build/
+.pio/
+*.d
+*.map
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.ipynb_checkpoints
+.env
+.env.*
+
+# Data and large logs
+data/
+*.log
+
+# Firebase config (example)
+firebase_config.json
+google-services.json
+GoogleService-Info.plist
+
+# Flutter/Android / iOS builds
+android/app/google-services.json
+ios/Runner/GoogleService-Info.plist
+build/
+.flutter-plugins
+.packages
+.pub-cache/
