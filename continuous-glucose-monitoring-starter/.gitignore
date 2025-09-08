@@ -42,4 +42,3 @@ build/
 .flutter-plugins
 .packages
 .pub-cache/
-secrets/
